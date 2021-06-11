@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import {
+  CssBaseline,
+  Container,
+  createMuiTheme,
+  MuiThemeProvider,
+  Grid,
+} from '@material-ui/core'
+import CustomMuiTheme from "./muiTheme";
+import Identity from "./Identity";
+import Birthday from './Birthday'
+import ShopFor from './ShopFor'
 
-function App() {
+const theme = createMuiTheme(CustomMuiTheme);
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <MuiThemeProvider theme={theme}>
+      <div className="App">
+        <CssBaseline />
+        <Container>
+          <Grid container direction="column" spacing={2}>
+            <Grid item><Identity /></Grid>
+            <Grid item><Birthday /></Grid>
+            <Grid item><ShopFor /></Grid>
+          </Grid>
+        </Container>
+      </div>
+    </MuiThemeProvider>
   );
 }
-
-export default App;
