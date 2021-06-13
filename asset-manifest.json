@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/social-nature/static/js/main.e9e8a19f.chunk.js",
-    "main.js.map": "/social-nature/static/js/main.e9e8a19f.chunk.js.map",
-    "runtime-main.js": "/social-nature/static/js/runtime-main.401ce0c7.js",
-    "runtime-main.js.map": "/social-nature/static/js/runtime-main.401ce0c7.js.map",
+    "main.js": "/social-nature/static/js/main.970ea345.chunk.js",
+    "main.js.map": "/social-nature/static/js/main.970ea345.chunk.js.map",
+    "runtime-main.js": "/social-nature/static/js/runtime-main.5583df6b.js",
+    "runtime-main.js.map": "/social-nature/static/js/runtime-main.5583df6b.js.map",
     "static/css/2.022de0ba.chunk.css": "/social-nature/static/css/2.022de0ba.chunk.css",
-    "static/js/2.cf28f617.chunk.js": "/social-nature/static/js/2.cf28f617.chunk.js",
-    "static/js/2.cf28f617.chunk.js.map": "/social-nature/static/js/2.cf28f617.chunk.js.map",
-    "static/js/3.b8643cca.chunk.js": "/social-nature/static/js/3.b8643cca.chunk.js",
-    "static/js/3.b8643cca.chunk.js.map": "/social-nature/static/js/3.b8643cca.chunk.js.map",
+    "static/js/2.c5851749.chunk.js": "/social-nature/static/js/2.c5851749.chunk.js",
+    "static/js/2.c5851749.chunk.js.map": "/social-nature/static/js/2.c5851749.chunk.js.map",
+    "static/js/3.6f1a1b70.chunk.js": "/social-nature/static/js/3.6f1a1b70.chunk.js",
+    "static/js/3.6f1a1b70.chunk.js.map": "/social-nature/static/js/3.6f1a1b70.chunk.js.map",
     "index.html": "/social-nature/index.html",
     "static/css/2.022de0ba.chunk.css.map": "/social-nature/static/css/2.022de0ba.chunk.css.map",
-    "static/js/2.cf28f617.chunk.js.LICENSE.txt": "/social-nature/static/js/2.cf28f617.chunk.js.LICENSE.txt",
+    "static/js/2.c5851749.chunk.js.LICENSE.txt": "/social-nature/static/js/2.c5851749.chunk.js.LICENSE.txt",
     "static/media/arrow-down.0b595aea.svg": "/social-nature/static/media/arrow-down.0b595aea.svg",
     "static/media/checkmark.0ec4fe7e.svg": "/social-nature/static/media/checkmark.0ec4fe7e.svg",
     "static/media/error.4c7e2713.svg": "/social-nature/static/media/error.4c7e2713.svg",
@@ -22,9 +22,9 @@
     "static/media/question.9a56aba5.svg": "/social-nature/static/media/question.9a56aba5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.401ce0c7.js",
+    "static/js/runtime-main.5583df6b.js",
     "static/css/2.022de0ba.chunk.css",
-    "static/js/2.cf28f617.chunk.js",
-    "static/js/main.e9e8a19f.chunk.js"
+    "static/js/2.c5851749.chunk.js",
+    "static/js/main.970ea345.chunk.js"
   ]
 }
