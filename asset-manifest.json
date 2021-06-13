@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/social-nature/static/js/main.add59931.chunk.js",
+    "main.js.map": "/social-nature/static/js/main.add59931.chunk.js.map",
+    "runtime-main.js": "/social-nature/static/js/runtime-main.5583df6b.js",
+    "runtime-main.js.map": "/social-nature/static/js/runtime-main.5583df6b.js.map",
+    "static/css/2.022de0ba.chunk.css": "/social-nature/static/css/2.022de0ba.chunk.css",
+    "static/js/2.c5851749.chunk.js": "/social-nature/static/js/2.c5851749.chunk.js",
+    "static/js/2.c5851749.chunk.js.map": "/social-nature/static/js/2.c5851749.chunk.js.map",
+    "static/js/3.6f1a1b70.chunk.js": "/social-nature/static/js/3.6f1a1b70.chunk.js",
+    "static/js/3.6f1a1b70.chunk.js.map": "/social-nature/static/js/3.6f1a1b70.chunk.js.map",
+    "index.html": "/social-nature/index.html",
+    "static/css/2.022de0ba.chunk.css.map": "/social-nature/static/css/2.022de0ba.chunk.css.map",
+    "static/js/2.c5851749.chunk.js.LICENSE.txt": "/social-nature/static/js/2.c5851749.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.0b595aea.svg": "/social-nature/static/media/arrow-down.0b595aea.svg",
+    "static/media/checkmark.0ec4fe7e.svg": "/social-nature/static/media/checkmark.0ec4fe7e.svg",
+    "static/media/error.4c7e2713.svg": "/social-nature/static/media/error.4c7e2713.svg",
+    "static/media/icon-conversation.d29bf5e0.svg": "/social-nature/static/media/icon-conversation.d29bf5e0.svg",
+    "static/media/index.css": "/social-nature/static/media/montserrat-vietnamese-400-normal.6325549b.woff2",
+    "static/media/logo.2c7815af.png": "/social-nature/static/media/logo.2c7815af.png",
+    "static/media/question-tooltip.112a02e1.svg": "/social-nature/static/media/question-tooltip.112a02e1.svg",
+    "static/media/question.9a56aba5.svg": "/social-nature/static/media/question.9a56aba5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5583df6b.js",
+    "static/css/2.022de0ba.chunk.css",
+    "static/js/2.c5851749.chunk.js",
+    "static/js/main.add59931.chunk.js"
+  ]
+}
