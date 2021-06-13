@@ -149,7 +149,7 @@ const Account = () => {
           </Grid>
           <Grid item>
             <Button endIcon={<DownArrowIcon style={{ fontSize: '0.9rem' }} />} className={classes.account}>
-              <Avatar src='../images/avatar.png' className={classes.avatar} />
+              <Avatar className={classes.avatar} />
               Hi, Arielle
             </Button>
           </Grid>
