@@ -71,6 +71,9 @@ const useStyles = makeStyles((theme) => ({
   notifications: {
     fill: '#AAAAAA',
   },
+  accountContainer: {
+    width: 'auto',
+  },
   account: {
     textTransform: 'none',
     fontSize: '1rem',
@@ -140,19 +143,17 @@ const Account = () => {
   const classes = useStyles()
   return (
     <Hidden smDown>
-      <Grid item>
-        <Grid container spacing={1} alignItems='center'>
-          <Grid item>
-            <IconButton className={classes.notificationButton}>
-              <NotificationsIcon className={classes.notifications} />
-            </IconButton>
-          </Grid>
-          <Grid item>
-            <Button endIcon={<DownArrowIcon style={{ fontSize: '0.9rem' }} />} className={classes.account}>
-              <Avatar className={classes.avatar} />
-              Hi, Arielle
-            </Button>
-          </Grid>
+      <Grid container item spacing={1} alignItems='center' className={classes.accountContainer}>
+        <Grid item>
+          <IconButton className={classes.notificationButton}>
+            <NotificationsIcon className={classes.notifications} />
+          </IconButton>
+        </Grid>
+        <Grid item>
+          <Button endIcon={<DownArrowIcon style={{ fontSize: '0.9rem' }} />} className={classes.account}>
+            <Avatar className={classes.avatar} />
+            Hi, Arielle
+          </Button>
         </Grid>
       </Grid>
     </Hidden>
