@@ -1,8 +1,8 @@
 {
-  "name": "social-nature",
+  "name": "sn-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ritute.github.io/social-nature",
+  "homepage": "http://ritute.github.io/sn-form",
   "dependencies": {
     "@fontsource/karla": "^4.4.5",
     "@fontsource/montserrat": "^4.4.5",
